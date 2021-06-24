@@ -1,6 +1,6 @@
 # poll-bcrypt
 The Prime Bcrypt Cracker &amp; Exploitation Toolkit.
-
+ 
 ## First step 
 -   Install php-curl / apt install curl
 -   Run ``php bcrack.php`` (Single/Multiple)
