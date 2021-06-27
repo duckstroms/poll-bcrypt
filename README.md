@@ -5,7 +5,8 @@ The Prime Bcrypt Cracker &amp; Exploitation Toolkit.
 -   Install php-curl / apt install curl
 -   Run ``php bcrack.php`` (Single/Multiple)
 
-![reflector usage](https://i.ibb.co/PzQQHpY/image-2021-06-23-220546.png)
+![image](https://user-images.githubusercontent.com/57305361/123562257-c18b3b80-d7d7-11eb-8b6e-9ba56a2101bd.png)
+
 
 ## Authors
 *  Andri Wahyudi (GitHub: ! [duckstroms](https://github.com/duckstroms))
