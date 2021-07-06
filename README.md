@@ -11,3 +11,4 @@ The Prime Bcrypt Cracker &amp; Exploitation Toolkit.
 ## Authors
 *  Andri Wahyudi (GitHub: ! [duckstroms](https://github.com/duckstroms))
 *  Stregh Streek  (GitHub: ! [streghstreek](https://github.com/streghstreek))
+ 
