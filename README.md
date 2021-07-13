@@ -1,4 +1,4 @@
-# poll-bcrypt
+# POLL-BCRYPT
 The Prime Bcrypt Cracker &amp; Exploitation Toolkit.
  
 ## First step 
